@@ -1,0 +1,1 @@
+This is my first project using The Odin Project to learn HTML. I am developing some muscle memory with different commands and with the HTML boilerplate. 
